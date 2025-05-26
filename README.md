@@ -1,6 +1,6 @@
 **🗺️ Bhuvanesh Map App**
 A user-friendly geospatial assistant built with Gradio, OpenStreetMap, and OpenRouteService, supporting:
-
+ 
 🔍 Location search with autocomplete
 
 📍 Real-time user location
