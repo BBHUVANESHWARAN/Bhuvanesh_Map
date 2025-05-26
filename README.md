@@ -43,7 +43,7 @@ Component	Technology
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/geo-map-gradio-app.git
+[git clone https://github.com/yourusername/geo-map-gradio-app.git](https://github.com/BBHUVANESHWARAN/Bhuvanesh_Map.git)
 cd geo-map-gradio-app
 pip install -r requirements.txt
 🚀 Run the App
