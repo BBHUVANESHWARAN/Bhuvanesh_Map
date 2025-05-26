@@ -1,4 +1,4 @@
-**##🗺️ Bhuvanesh Map App##**
+**🗺️ Bhuvanesh Map App**
 A user-friendly geospatial assistant built with Gradio, OpenStreetMap, and OpenRouteService, supporting:
 
 🔍 Location search with autocomplete
@@ -41,18 +41,18 @@ Component	                    Technology
 🌐 APIs	                  Requests (HTTP)
 🧠 Geolocation	          Browser (JavaScript)
 
-📦 Installation
+**📦 Installation**
 
 https://github.com/BBHUVANESHWARAN/Bhuvanesh_Map.git
 cd Bhuvanesh_Map
 pip install -r requirements.txt
 
 
-🚀 Run the App
+**🚀 Run the App**
 
 python app.py
 
-📁 File Structure
+**📁 File Structure**
 .
 ├── app.py               # Main Gradio app
 ├── requirements.txt     # Dependencies
@@ -60,7 +60,7 @@ python app.py
 └── assets/              # Optional: place screenshots or icons here
 
 
-🔑 Notes
+**🔑 Notes**
 ✅ Make sure you have a valid OpenRouteService API Key. You can get one from: https://openrouteservice.org/dev/#/signup
 
 🌍 Internet connection is required for geocoding and routing APIs.
@@ -69,7 +69,7 @@ python app.py
 
 
 
-🧠 Credits
+**🧠 Credits**
 
 OpenStreetMap
 
